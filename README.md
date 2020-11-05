@@ -22,4 +22,4 @@ Building this application was a challenge. One part I struggled in was figuring 
 
  
 
-![readme screenshot](./assets/images/readme_screenshot.png)
+![readme screenshot](./assets/images/profile-generator.png)
